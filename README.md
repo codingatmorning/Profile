@@ -1,5 +1,5 @@
 
-👋 `Hi there` 
+# 👋 `Hi there` My name's Philip 
 
 I'm a aspiring Backend Software Engineer passionate about programming, music, and building. When I'm not coding, you can usually find me outside, enjoying nature and all the activities it has to offer.
 
