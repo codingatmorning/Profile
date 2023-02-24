@@ -1,4 +1,4 @@
-**☀️** `Hi there My name's Philip`
+## ☀️ Hi there my name's philip
 
 I'm a aspiring Backend Software Engineer passionate about programming, music, and building. When I'm not coding, you can usually find me outside, enjoying nature and all the activities it has to offer.
 
