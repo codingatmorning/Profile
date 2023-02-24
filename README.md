@@ -16,7 +16,7 @@ I'm a aspiring Backend Software Engineer passionate about programming, music, an
 - My favorite programming languages and frameworks
 - My projects and contributions on Github
 
-# :octocat:Fun fact 
+# :octocat: Fun fact 
 I'm also a music producer and love to make beats in my free time. It's a great way to exercise my creativity and unwind after a long day of coding!
 
 # 📫 How to reach me 
