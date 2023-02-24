@@ -1,8 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there 👋
 
 I'm a aspiring Backend Software Engineer passionate about programming, music, and building. When I'm not coding, you can usually find me outside, enjoying nature and all the activities it has to offer.
 
 ## 🔭 Past Experience
+
 - Building .Net applications at Paylocity
 
 ## 🌱 I’m currently learning 
