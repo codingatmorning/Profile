@@ -5,12 +5,14 @@ I'm an aspiring Backend Software Engineer passionate about programming, music, a
 𝓟𝓪𝓼𝓽 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 🌸
 
 Building .Net applications at Paylocity
+
 🌱 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰
 
 Learning new programming languages and frameworks
 Flask, and its associated technologies
 Advanced algorithms and data structures
 Deploying efficiently to the Cloud and systems
+
 💬 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽
 
 My favorite programming languages and frameworks
@@ -23,6 +25,7 @@ I'm also a music producer and love to make beats in my free time. It's a great w
 Github
 LinkedIn
 Twitter
+
 📈 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓟𝓻𝓸𝓯𝓲𝓬𝓲𝓮𝓷𝓬𝔂
 
 Programming Language Proficiency
