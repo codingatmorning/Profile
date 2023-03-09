@@ -6,7 +6,7 @@ Past Experience 🌸
 
 Building .Net applications at Paylocity
 
-🌱 ▁ ▂ ▄ ▅ ▆ ▇ █     𝐼'𝓂 𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔     █ ▇ ▆ ▅ ▄ ▂ 
+▁ ▂ ▄ ▅ ▆ ▇ █     𝐼'𝓂 𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔     █ ▇ ▆ ▅ ▄ ▂ 
 
 Learning new programming languages and frameworks
 Flask, and its associated technologies
