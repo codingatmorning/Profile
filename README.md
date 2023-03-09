@@ -2,30 +2,31 @@
 
 I'm an aspiring Backend Software Engineer passionate about programming, music, and building. When I'm not coding, you can usually find me outside, enjoying nature and all the activities it has to offer.
 
-# Past Experience 🌸
+Past Experience 🌸
 
 Building .Net applications at Paylocity
 
-# 🌱 I'm Currently Learning
+🌱 I'm Currently Learning
+
 Learning new programming languages and frameworks
 Flask, and its associated technologies
 Advanced algorithms and data structures
 Deploying efficiently to the Cloud and systems
 
-# 💬 Ask me About
+💬 Ask me About
 
 My favorite programming languages and frameworks
 My projects and contributions on GitHub
 :octocat: 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽
 I'm also a music producer and love to make beats in my free time. It's a great way to exercise my creativity and unwind after a long day of coding!
 
-# 📫 How to reach me
+📫 How to reach me
 
 Github
 LinkedIn
 Twitter
 
-# 📈 Programming Language Proficiency
+📈 Programming Language Proficiency
 
 Programming Language Proficiency
 
