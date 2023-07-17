@@ -4,11 +4,12 @@ My name is Philip, and I'm an aspiring Backend Software Engineer with a passion 
 
 🎓 Past Experience
 
+Automating Operations at Vitesco Technologies
 Building .NET applications at Paylocity as an Intern
 
 🚀 I'm Currently Learning
 
-Exploring new programming languages and frameworks, such as Flask and its associated technologies
+Exploring new programming languages and frameworks
 Delving into advanced algorithms and data structures
 Learning efficient deployment to the Cloud and optimizing systems
 
